@@ -1,0 +1,4 @@
+com\test\App.class
+com\test\entity\TestEntity.class
+com\test\SetterAspect.class
+com\test\entity\TestEntity$TestEntityBuilder.class

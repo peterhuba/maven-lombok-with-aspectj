@@ -1,0 +1,17 @@
+-Xajruntimetarget:1.5
+-Xlint:ignore
+-1.8
+-encoding
+UTF-8
+-showWeaveInfo
+-source
+1.8
+-target
+1.8
+-verbose
+-classpath
+C:\Users\HubaPeter\.m2\repository\org\aspectj\aspectjrt\1.8.9\aspectjrt-1.8.9.jar;C:\Users\HubaPeter\.m2\repository\org\aspectj\aspectjweaver\1.8.9\aspectjweaver-1.8.9.jar;C:\Users\HubaPeter\.m2\repository\junit\junit\4.13\junit-4.13.jar;C:\Users\HubaPeter\.m2\repository\org\projectlombok\lombok\1.18.10\lombok-1.18.10.jar;C:\Users\HubaPeter\Documents\maven-lombok-with-aspectj\target\classes
+-inpath
+C:\Users\HubaPeter\Documents\maven-lombok-with-aspectj\target/classes
+-d
+C:\Users\HubaPeter\Documents\maven-lombok-with-aspectj\target\classes
